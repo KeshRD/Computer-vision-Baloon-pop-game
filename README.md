@@ -1,2 +1,2 @@
 # Computer-vision-Baloon-pop-game
-This is a game that controlled by hand gestures via a web cam.I used python opencv,mediapipe libraries.So webcam detect hand and mark 20 land marks.so when pinch two fingers it detect as a pop.So moving is done hand without keyboard or mouse
+This is a game that controlled by hand gestures via a web cam.I used python opencv,mediapipe libraries.So webcam detect hand and mark 20 land marks.so when pinch two fingers it detect as a pop.So moving cursor is fully done by hand without keyboard or mouse..so additionaly i made a scoring system and it count no of balloons that you poped.The land marks on the thumb and nearby finger detect to pinch.so you can download repository and enjoy it.you can use your laptop webcam or any external webcam
